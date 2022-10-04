@@ -1,0 +1,406 @@
+.bimage {
+    background-image: url("../pitch.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    outline: 5px solid black;
+    border-radius: 1%;
+}
+.bimage1 {
+    height: 95vh;
+    width: 98%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    outline: 4px solid white;
+    position: relative;
+    border-radius: 1%;
+    top: 15px;
+    left: 15px;
+}
+.posthome {
+    height: 50vh;
+    width: 10%;
+    outline: 4px solid white;
+    position: absolute;
+    left: 23px;
+    bottom: 160px;
+}
+.parc {
+    height: 10vh;
+    width: 5%;
+    outline: 4px solid white;
+    position: relative;
+    bottom: 644px;
+    left: 16px;
+    border-radius: 0 0  100%;
+    border-top-left-radius: 5%;
+}
+.parc1 {
+    height: 10vh;
+    width: 5%;
+    outline: 4px solid white;
+    border-radius: 0 100% 0 0%;
+    position: relative;
+    top: -125px;
+    left: 16px;
+    border-bottom-left-radius: 5%;
+}
+.vl {
+    border-left: 4px solid rgb(255, 255, 255);
+    height: 100vh;
+    position: absolute;
+    left: 50%;
+    /* margin-left: -3px; */
+    top: 8px;
+}
+.postaway {
+    height: 50vh;
+    width: 10%;
+    outline: 4px solid white;
+    position: absolute;
+    right: 20px;
+    bottom: 160px;
+}
+.parc2 {
+    height: 10vh;
+    width: 5%;
+    outline: 4px solid white;
+    border-radius: 0 0 0 100%;
+    position: relative;
+    top: -784px;
+    left: 1254px;
+    border-top-right-radius: 5%;
+}
+.parc3 {
+    height: 10vh;
+    width: 5%;
+    outline: 4px solid white;
+    border-radius: 100% 0 0 0;
+    position: relative;
+    top: -263px;
+    right: -1254px;
+    border-bottom-right-radius: 5%;
+}
+.centerc {
+    height: 40vh;
+    width: 20%;
+    position: absolute;
+    left: 40%;
+    /* margin-left: -3px; */
+    top: 220px;
+    border-radius: 100%;
+    border: 4px solid white;
+}
+.phome {
+    height: 20vh;
+    width: 40%;
+    outline: 4px solid white;
+    position: absolute;
+    left: 1px;
+    bottom: 100px;
+}
+.paway {
+    height: 20vh;
+    width: 40%;
+    outline: 4px solid white;
+    position: absolute;
+    right: 1px;
+    bottom: 100px;
+}
+.pharc {
+    height: 240px;
+    width: 137px;
+    outline: 4px solid white;
+    position: absolute;
+    left: 139px;
+    bottom: 55px;
+    border-top-right-radius: 120px;
+    border-bottom-right-radius: 120px;
+}
+.paarc{
+    height: 240px;
+    width: 137px;
+    outline: 4px solid white;
+    position: absolute;
+    right: 139px;
+    bottom: 55px;
+    border-top-left-radius: 120px;
+    border-bottom-left-radius: 120px;
+}
+.blackp1 {
+    background-image: url("../[CITYPNG.COM]Green\ Football\ Player\ Icon\ Silhouette\ FREE\ PNG\ -\ 512x512.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35px;
+    left: 45px;
+    color: rgb(153, 7, 7);
+}
+.blackp2 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 110px;
+    left: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.blackp3 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -50px;
+    left: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.blackp4 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -220px;
+    left: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.blackp5 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 270px;
+    left: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.blackp6 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35px;
+    left: 350px;
+    color: rgb(153, 7, 7);
+}
+.blackp7 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -120px;
+    left: 350px;
+    color: rgb(153, 7, 7);
+}
+.blackp8 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 200px;
+    left: 350px;
+    color: rgb(153, 7, 7);
+}
+.blackp9 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -250px;
+    left: 470px;
+    color: rgb(153, 7, 7);
+}
+.blackp10 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 295px;
+    left: 470px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.blackp11 {
+    background-image: url("../blackt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35px;
+    left: 550px;
+    color: rgb(153, 7, 7);
+}
+.bluep1 {
+    background-image: url("../[CITYPNG.COM]Green\ Football\ Player\ Icon\ Silhouette\ FREE\ PNG\ -\ 512x512.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35px;
+    right: 45px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.bluep2 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 110px;
+    right: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.bluep3 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -50px;
+    right: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.bluep4 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -220px;
+    right: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.bluep5 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 270px;
+    right: 200px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.bluep6 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35px;
+    right: 350px;
+    color: rgb(153, 7, 7);
+}
+.bluep7 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -120px;
+    right: 350px;
+    color: rgb(153, 7, 7);
+}
+.bluep8 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 200px;
+    right: 350px;
+    color: rgb(153, 7, 7);
+}
+.bluep9 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: -250px;
+    right: 470px;
+    color: rgb(153, 7, 7);
+}
+.bluep10 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 295px;
+    right: 470px;
+    color: rgb(153, 7, 7);
+    z-index: 1;
+}
+.bluep11 {
+    background-image: url("../redt.png");
+    height: 10vh;   
+    width: 100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 35px;
+    right: 550px;
+    color: rgb(153, 7, 7);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
